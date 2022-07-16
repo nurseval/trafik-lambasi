@@ -1,0 +1,11 @@
+C:\Users\Nur\source\repos\trafik lambası2\bin\Debug\trafik lambası2.exe.config
+C:\Users\Nur\source\repos\trafik lambası2\bin\Debug\trafik lambası2.exe
+C:\Users\Nur\source\repos\trafik lambası2\bin\Debug\trafik lambası2.pdb
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik lambası2.csproj.AssemblyReference.cache
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik lambası2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik_lambası2.Form1.resources
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik_lambası2.Properties.Resources.resources
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik lambası2.csproj.GenerateResource.cache
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik lambası2.csproj.CoreCompileInputs.cache
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik lambası2.exe
+C:\Users\Nur\source\repos\trafik lambası2\obj\Debug\trafik lambası2.pdb
